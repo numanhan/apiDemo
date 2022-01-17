@@ -1,4 +1,4 @@
-Feature: Numan
+Feature: Pet Store API Test
 
   Background:
     * url 'https://petstore.swagger.io/'
